@@ -47,3 +47,8 @@ Installation:
     - for [IDLEX](http://idlex.sourceforge.net), copy file `config-highlight.cfg` to `~/.idlerc/idlex-config-highlight.cfg`
     
 
+## PuTTY
+
+### base16-putty
+
+https://github.com/benjojo/base-16-putty
