@@ -21,6 +21,10 @@ black.conf
 ----------
  *Paul Lenton (EckoZero) <lentonp(at)gmail(dot)com>
 
+darcula.conf
+------------
+ *Jiri Techet <techet(at)gmail(dot)com> (port to Geany)
+
 dark.conf
 ---------
   Duncan Lock <duncan.lock(at)gmail(dot)com>
@@ -30,6 +34,11 @@ dark-fruit-salad.conf
 ---------------------
   John Gabriele <jmg3000(at)gmail(dot)com>
  *Matthew Brush <matt(at)geany(dot)org> (port to newer Geany)
+
+dark-colors.conf
+---------------------
+  Yannis Kontochristopoulos <ikontochris(at)gmail(dot)com>
+ *Matthew Brush <matt(at)geany(dot)org> (port to Geany)
 
 fluffy.conf
 -----------
@@ -46,6 +55,11 @@ github.conf
   Felipe Mesquita <fmesquitacunha(at)gmail(dot)com>
  *Matthew Brush <matt(at)geany(dot)org> (port to Geany)
 
+himbeere.conf
+-------------
+  commenthol <commenthol(at)gmail(dot)com>
+ *Matthew Brush <matt(at)geany(dot)org>
+
 inkpot.conf
 -----------
  *Campbell Barton <ideasman42(at)gmail(dot)com>
@@ -57,6 +71,10 @@ kugel.conf
 mc.conf
 -------
  *Henrik Pauli <ralesk(at)drangolin(dot)net>
+
+metallic-bottle.conf
+--------------------
+ *Tomasz Wyderka <wyderkat(at)cofoh(dot)com>
 
 monokai.conf
 ------------
