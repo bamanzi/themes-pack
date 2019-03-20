@@ -45,6 +45,9 @@ Themes:
   - Steam:     http://mindref.blogspot.ae/2010/05/python-idle-themes.html
   - Tango:     http://www.roguecode.net/2011/09/tango-theme-for-python-idle.html
   - Obsidian:  https://gist.github.com/dsosby/1122904
+  - Monokai:   https://gist.github.com/jaimergp/10285906
+  - Monokai(2): https://github.com/ZEPORATH/IDLE-Python-Themes/blob/master/config-highlight.cfg
+  - UbuntuLike: http://crokodyll.blogspot.com/2013/02/python-idle-theme-ubuntulike.html
     
 Installation:
 
